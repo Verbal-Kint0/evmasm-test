@@ -10,3 +10,6 @@ edition = "2018"
 clap = "2.33"
 rsevmasm = "0.5"
 num-bigint = "0.4"
+thiserror = "1.0"
+move-binary-format = { path = "lib/diem/language/move-binary-format"}
+hex = "0.4"
